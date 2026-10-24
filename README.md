@@ -9,5 +9,16 @@ Me cuesta escribir sobre esto, pero guardar silencio es aún más complicado. Ge
 # Solucion
 Una app que imita un casino online pero con apuestas diminutas (centavos) y algoritmos que reducen la dopamina: pausas obligatorias, ralentizaciones, reducción de brillo. Como un parche de nicotina: proporciona la mecánica familiar, pero la dosis baja hasta cero.
 
-Un Simulador con dinero real para adictos a casinos
-Mi idea fue sacada de: https://problemhunt.pro/en/psychology/dopyur7701-a-gambling-addict-hasnt-been-able-to-qui                  Como se ve esta idea no contiene codigo y solo tiene como diferentes formas de solucion  
+Un Simulador con dinero real para adictos aL casino
+
+
+
+
+
+
+
+
+
+# la idea fue sacada de esta pagina
+https://problemhunt.pro/en/psychology/dopyur7701-a-gambling-addict-hasnt-been-able-to-qui  
+Como se ve esta idea no contiene codigo y solo tiene como diferentes formas de solucion. Yo elegi con la que se puede genrer una mejor solucion
