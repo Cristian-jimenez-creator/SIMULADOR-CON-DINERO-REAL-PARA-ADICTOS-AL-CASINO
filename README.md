@@ -11,8 +11,9 @@ Una app que imita un casino online pero con apuestas diminutas (centavos) y algo
 
 Un Simulador con dinero real para adictos aL casino
 
-
-
+# Requerimientos Funcionales
+1. Registrar usuario
+2. 
 
 
 
